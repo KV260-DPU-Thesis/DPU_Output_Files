@@ -1,4 +1,4 @@
-# DPU_Outputs
+# DPU_Output_Files
 
 Files for using DPU on KV260 Vision AI Starter Kit
 
