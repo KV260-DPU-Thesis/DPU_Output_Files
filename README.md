@@ -20,7 +20,7 @@ sudo dnf install -y git
 Clone the repository in board
 
 ```
-git clone https://github.com/kayracoskun/DPU_Outputs.git
+git clone https://github.com/KV260-DPU-Thesis/DPU_Output_Files.git
 ```
 
 Create app that will be loaded to the firmware
@@ -28,7 +28,7 @@ Create app that will be loaded to the firmware
 ```
 mkdir myApp
 
-cd DPU_Outputs
+cd DPU_Output_Files
 
 cp OUT_C1_B4096/KV260.dtbo OUT_C1_B4096/shell.json OUT_C1_B4096/top_wrapper.bit.bin myApp
 
